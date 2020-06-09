@@ -1,6 +1,6 @@
 # Android Jetpack App - Starter Template
 
-Whenever we create a new Android project in Android Studio, it doesn't include the Jetpack components. We need to add each of the **manually**. So I have created a starter template app which includes navigation components :
+Whenever we create a new Android project in Android Studio, it doesn't include the Jetpack components. We need to add each of the **manually**. So I have created a starter template app which includes Jetpack components :
 
 1) Navigation
 2) LiveData
